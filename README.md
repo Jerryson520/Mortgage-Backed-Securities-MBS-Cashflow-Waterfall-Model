@@ -31,3 +31,26 @@ specified structure:
   * Pay principal to Class A bond from the period’s aggregate principal, until fully paid oﬀ.
   * Once Class A is paid oﬀ, pay principal to Class B bond from the period’s aggregate principal, until fully paid oﬀ.
   * Once Class B is paid oﬀ, pay principal to Class C bond from the period’s aggregate principal, until fully paid oﬀ.
+
+
+### Run instructions:
+
+After executing the code below, there're 4 things:
+
+1. Aggregated mortgage cashflow dataframe
+2. Waterfall model cashflow distribution dataframe
+3. An Animated Waterfall Model Sankey Diagram
+4. Summary statistics
+
+Instructions for using the Animated Waterfall Model Sankey Diagram:
+(I recommend zooming out your screen to see the full diagram for a better view)
+
+1. Click "play" or "pause" to start or stop the animation showing the dynamic changes in the waterfall model's distribution.
+2. Use the slider to view the specific distribution for each year. Hover over elements to see detailed distribution information.
+
+
+[Pay Attention]:
+
+Make sure the data file **"Loan_tape_data.xlsx" is under the same directory** of the code.
+
+The initial preview of the Animated Waterfall Model Sankey Diagram may not be accurate. Please ignore it. When playing the animation or drag the slider, everything will display normally. This issue may be addressed in a future update if possible.
