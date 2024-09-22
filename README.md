@@ -1,6 +1,6 @@
 # Mortgage Backed Securities (MBS) Cashflow Waterfall Model
 
-Implement a cashflow waterfall model for a hypothetical Mortgage-Backed Security using provided mortgage data,and draw the animation of cashflow distribution.
+Implement a cashflow waterfall model for a hypothetical Mortgage-Backed Security using provided mortgage data, and draw the animation of cashflow distribution.
 
 
 Given:
