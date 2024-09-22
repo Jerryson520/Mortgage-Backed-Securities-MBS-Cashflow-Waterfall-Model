@@ -1,4 +1,4 @@
-# Mortgage-Backed-Securities-MBS-Cashflow-Waterfall-Model
+# Mortgage Backed Securities (MBS) Cashflow Waterfall Model
 
 Implement a cashflow waterfall model for a hypothetical Mortgage-Backed Security using provided mortgage data.
 
